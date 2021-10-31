@@ -1,4 +1,4 @@
-# client-side-code-live-link (https://simple-firebase-authenti-b3a2a.web.app/home)
+# client-side-code-live-link (https://simple-firebase-authenti-b3a2a.web.app/)
 
 ## About my project:
 - This web site, i show a travel agency web site.
