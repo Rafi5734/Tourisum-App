@@ -1,0 +1,75 @@
+[
+    {
+        "name": "DUBAI",
+        "description": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music.",
+        "price": 1590,
+
+        "rating": 4,
+
+        "image": "https://bonvoyage.qodeinteractive.com/wp-content/uploads/2018/02/tour-3-img-1.jpg"
+    },
+    {
+        "name": "BAY OF PALMA",
+        "description": "The Bay of Palma is a bay located to the south of Palma, Majorca, Spain. It is in the south-west of the Balearic Island of Mallorca. Palma de Majorca's harbour is located on the northern shores along with some famous beaches.",
+        "rating": 5,
+        "price": 1790,
+
+        "image": "https://bonvoyage.qodeinteractive.com/wp-content/uploads/2018/02/tour-3-img-2.jpg"
+    },
+    {
+        "name": "TESSALONIKI",
+        "description": "Thessaloniki is a Greek port city on the Thermaic Gulf of the Aegean Sea. Evidence of Roman, Byzantine and Ottoman history remains, especially around Ano Poli, the upper town. The ruins of Roman Emperor Galerius’ 4th-century palace include the Rotunda that has been both a church and a mosque. ",
+        "rating": 4.5,
+        "price": 1660,
+
+        "image": "https://bonvoyage.qodeinteractive.com/wp-content/uploads/2018/02/tour-3-img-3.jpg"
+    },
+    {
+        "name": "POSITANO",
+        "description": "Positano is a cliffside village on southern Italy's Amalfi Coast. It's a well-known holiday destination with a pebble beachfront and steep, narrow streets lined with boutiques and cafes. Its Chiesa di Santa Maria Assunta features a majolica-tiled dome and a 13th-century Byzantine icon.",
+        "rating": 3,
+        "price": 1920,
+
+        "image": "https://bonvoyage.qodeinteractive.com/wp-content/uploads/2018/02/tour-3-img-6.jpg"
+    },
+    {
+        "name": "SANTORINI",
+        "description": "Santorini is one of the Cyclades islands in the Aegean Sea. It was devastated by a volcanic eruption in the 16th century BC, forever shaping its rugged landscape. The whitewashed, cubiform houses of its 2 principal towns, Fira and Oia, cling to cliffs above an underwater caldera (crater).",
+        "rating": 5,
+        "price": 1760,
+
+        "image": "https://bonvoyage.qodeinteractive.com/wp-content/uploads/2018/02/tour-3-img-7.jpg"
+    },
+    {
+        "name": "CALA MESQUIDA",
+        "description": "Pretty beach, water clear and beach clean. Parking limited. Need to arrive very early to get a space. Beautiful place, glad I visited.Recommend this beach. Clear beautiful turquoise water, not crowded around end of August, spectacular walk up the hill side. Lovely white sand.",
+        "rating": 4,
+        "price": 2200,
+
+        "image": "https://bonvoyage.qodeinteractive.com/wp-content/uploads/2018/02/tour-3-img-8.jpg"
+    },
+    {
+        "name": "HALKIDIKI",
+        "description": "Halkidiki is a region in northern Greece known for its jutting peninsulas, which feature Mediterranean forests that give way to sandy beaches in sheltered bays. Kassandra, the westernmost peninsula, is the most developed, offering modern resorts and nightclubs. The region's notable.",
+        "rating": 4.1,
+        "price": 1660,
+
+        "image": "https://bonvoyage.qodeinteractive.com/wp-content/uploads/2018/02/tour-3-img-10.jpg"
+    },
+    {
+        "name": "SICILY",
+        "description": "Sicily, the largest Mediterranean island, is just off the  of Italy's. Its rich history is reflected in sites like the Valley of the Temples, the well-preserved ruins of 7 monumental, Doric-style Greek temples, and in the Byzantine mosaics at the Cappella Palatina.",
+        "rating": 3.8,
+        "price": 1240,
+
+        "image": "https://bonvoyage.qodeinteractive.com/wp-content/uploads/2018/02/tour-3-img-6.jpg"
+    },
+    {
+        "name": "IBIZA",
+        "description": "Ibiza is one of the Balearic islands, an archipelago of Spain in the Mediterranean Sea. It's well known for the lively nightlife in Ibiza Town and Sant Antoni, where major European nightclubs have summer outposts. It’s also home to quiet villages, yoga retreats and beaches.",
+        "rating": 4.2,
+        "price": 1820,
+
+        "image": "https://bonvoyage.qodeinteractive.com/wp-content/uploads/2018/02/tour-3-img-5.jpg"
+    }
+]
